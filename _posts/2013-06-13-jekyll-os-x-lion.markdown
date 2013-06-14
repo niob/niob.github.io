@@ -2,6 +2,7 @@
 layout: post
 title: Compile Jekyll gem on OS X 10.7 (Lion)
 category: Development
+comments: true
 
 excerpt: On OS X 10.7 or Lion (and up) you can't install the Jekyll gem out of the box. A lot of solutions are suggested on blogs and StackOverflow but for me the easiest was to upgrade to the newest version of Ruby (from 1.8.x to 2.x) with brew wich is capable of compiling native extensions.
 
