@@ -32,3 +32,5 @@ note: add this to your ~/.profile to persist
 `gem install jekyll`
 
 And that's it. Ruby 2.x compiles native extensions with LVVM without any trouble.
+
+Note: LVVM is supported from Ruby 1.9.3 and upward I think.
